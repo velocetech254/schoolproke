@@ -1,2 +1,0 @@
-/* Small fix: ensure body text is visible even if a CSS variable is missing */
-:root{--ink:#0F172A;--ink-soft:#475569}
